@@ -1,0 +1,11 @@
+Author
+
+Jarek Lipski
+email: loomchild@rootnode.net
+WWW: loomchild.rootnode.ne
+
+
+------------
+
+Project packaged into a maven project 
+by Fridjon Gudjohnsen <fridjong@gmail.com> 
